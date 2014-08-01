@@ -1,8 +1,5 @@
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
 <meta name="ROBOTS" content="NOIMAGEINDEX">
-
-<title>大量实用工具类、开源包</title>
-
 <div class="divmb divtwo" id="csdn123two" name="csdn123two">
 <h1>大量实用工具类、开源包</h1>
 <div><table style="widows: 2; text-transform: none; background-color: #ffffff; text-indent: 0px; width: 758px; border-collapse: collapse; font: 12px/18px Tahoma, Helvetica, SimSun, sans-serif; word-wrap: break-word; white-space: normal; orphans: 2; empty-cells: show; table-layout: fixed; letter-spacing: normal; color: #333333; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;" cellspacing="0" cellpadding="0">
