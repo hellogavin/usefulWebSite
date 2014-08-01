@@ -1,9 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0064)http://www.csdn123.com/html/itweb/20130902/94987_94999_95028.htm -->
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
 <meta name="ROBOTS" content="NOIMAGEINDEX">
 
-<title>从波峰到低谷的坠落：剖析HTC中国五年磨难_大量实用工具类、开源包_脚本百事通</title>
+<title>大量实用工具类、开源包</title>
 
 <div class="divmb divtwo" id="csdn123two" name="csdn123two">
 <h1>大量实用工具类、开源包</h1>
